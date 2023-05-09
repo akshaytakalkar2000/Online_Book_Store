@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+}
+
+.main-container {
+    background-image: url("https://png.pngtree.com/back_origin_pic/04/47/74/63cfcf50d02f21d931fc87128a23cbd1.jpg");
+    background-repeat: no-repeat; background-size: cover;
+}
+
+.main-container h1, label {
+    color: #fff;
+}
+.links {
+    padding: 17px 0;
+    display: flex; align-items: center;
+    justify-content: space-between;
+}
+
+.links a {
+    color: #fff;
+}
+.links a:hover {
+    color: #d0cece;
+}
+
+
